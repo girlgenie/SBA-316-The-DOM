@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: pink; /* Default text color */
+    background-image: url('https://image.urlaubspiraten.de/1024/image/upload/v1603290845/mediavault_images/hrleas1ffjjps2f4nlvq.jpg'); /* Set background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    
+  }
+  
+#myElement { 
+    color:white; 
+}
+
+
+#myElement2 {
+    color: black; 
+}
+
+code {
+    color: #09507c;
+    background: #deedf2;
+    padding: 2px 10px;
+    border-radius: 10px;
+  }
+
+  checkedBox {
+    color: green;
+  }
